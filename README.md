@@ -40,7 +40,7 @@ This repository contains the following:
 1. Clone this repository using the following command:
 
 ```bash
-  git clone https://github.com/jishnuunnikrishnan97/HandsOn-ML.git
+  git clone https://github.com/jishnuunnikrishnan97/HandsOn-NN.git
 ```
 
 2. Install the required packages using the following command:
